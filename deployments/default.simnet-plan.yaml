@@ -55,6 +55,11 @@ plan:
             path: contracts/lending-pool.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: collateral-management
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/collateral-management.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: loan-request
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/loan-request.clar
