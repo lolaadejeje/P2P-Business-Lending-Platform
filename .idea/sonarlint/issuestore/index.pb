@@ -7,3 +7,5 @@ J
 tests/loan-request.test.ts,2/a/2a6dc8fd3d5abbc0c492b44e5e8a83cf80540ca3
 K
 contracts/lending-pool.clar,8/f/8fa2335ad55011902c4486d8df9e30fb3e74f0f5
+J
+tests/lending-pool.test.ts,8/0/808baf850525dd82962d51d26b30a8aa0ae620db
