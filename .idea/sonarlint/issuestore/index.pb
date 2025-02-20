@@ -13,3 +13,5 @@ N
 contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
 M
 tests/risk-assessment.test.ts,e/9/e9e6a96a70c2cbf19d963c4403d69d9c6dc859d9
+T
+$contracts/collateral-management.clar,e/b/ebd25a6b95c263439674497e11db99ec1b77b36b
