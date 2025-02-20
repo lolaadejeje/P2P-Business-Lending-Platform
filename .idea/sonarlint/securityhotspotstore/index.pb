@@ -11,3 +11,5 @@ J
 tests/lending-pool.test.ts,8/0/808baf850525dd82962d51d26b30a8aa0ae620db
 N
 contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
+M
+tests/risk-assessment.test.ts,e/9/e9e6a96a70c2cbf19d963c4403d69d9c6dc859d9
