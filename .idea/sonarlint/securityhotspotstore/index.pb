@@ -9,3 +9,5 @@ K
 contracts/lending-pool.clar,8/f/8fa2335ad55011902c4486d8df9e30fb3e74f0f5
 J
 tests/lending-pool.test.ts,8/0/808baf850525dd82962d51d26b30a8aa0ae620db
+N
+contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
